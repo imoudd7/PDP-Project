@@ -1,13 +1,3 @@
-/**
- *
- * Mahmoud Aldaher
- * mahmoud.aldaher@ogr.sakarya.edu.tr
- * 05/04/2024 - 07/04/2024
- * 2-C Grubu - Huseyin Hoca
- */
-
-
-
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.IOException;
